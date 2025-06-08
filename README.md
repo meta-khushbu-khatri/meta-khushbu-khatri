@@ -44,7 +44,7 @@
 ### 🌐 Deployment & Hosting:
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
 
 ### ☁️ CRM & Platform Skills:
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
