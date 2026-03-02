@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meta-khushbu-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="meta-khushbu-khatri" /> </p>
 
-- 🔭 I’m currently building **Front-end Developer using React node js**
+- 🔭 I’m currently building projects as a Freelance **Front-End Developer using React and Node.js**
 
-- 🌱 Exploring the future **of Web 3.0 **
+- 🌱 Exploring the future **of Web 3.0**
 
 - 🛠️ Tools I use: **VSCode • Git • Postman • MongoDB Compass • Chrome DevTools**
 
