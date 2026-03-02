@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Khushbu Khatri</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack</h3>
+<h3 align="center">🚀 Salesforce Adminstrator | Front-end Developer | UI/UX designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meta-khushbu-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="meta-khushbu-khatri" /> </p>
 
-- 🔭 I’m currently building **Full-Stack Projects using the MERN stack**
+- 🔭 I’m currently building **Front-end Developer using React node js**
 
-- 🌱 Exploring the future **of Web 3.0 and blockchain integration**
+- 🌱 Exploring the future **of Web 3.0 **
 
 - 🛠️ Tools I use: **VSCode • Git • Postman • MongoDB Compass • Chrome DevTools**
 
-- 💬 Ask me about **avaScript, React, Node.js, or Current Tech Trends**
+- 💬 Ask me about **JavaScript, React, Node.js, or Current Tech Trends**
 
-- 📫 How to reach me **khushbukhatri2000@gmail.com**
+- 📫 How to reach me **khushbukhatri245@gmail.com**
 
-- ⚡ Fun fact **I bring 2 years of Salesforce platform experience into modern web development**
+- ⚡ Fun fact **I bring 3.5 years of Salesforce platform experience into modern web development**
 
 - ---
 
